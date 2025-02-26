@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "832095105b7c0d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd88811b3b433526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88561e47c698ed0c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imágenes/Captura de pantalla 2025-02-24 a la(s) 7.18.48 p.m..png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de pantalla 2025-02-24 a la(s) 7.18.48 p.m."
+            }
+          },
+          {
+            "id": "7a5dd6e4c264b51d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imágenes/Captura de pantalla 2025-02-24 a la(s) 7.15.49 p.m..png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de pantalla 2025-02-24 a la(s) 7.15.49 p.m."
+            }
+          },
+          {
+            "id": "261e84796e0f759c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DLA/1. DNN y auto-encoders/Grabaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grabaciones"
+            }
+          },
+          {
+            "id": "62a08b1d5f9251c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DLA/1. DNN y auto-encoders/Grabaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grabaciones"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d12b815fcdef5d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8ec7186896fbab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e75272d7832201",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e19aad7b7d79f904",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c1849cc921f01c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bb9a5aab1ab0db7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f3dbc3365fab5d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7859ccc59fbca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/Topic Modeling/Grabaciones TM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Grabaciones TM"
+            }
+          },
+          {
+            "id": "76982a0689f8cf0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML/Regresión logística.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Regresión logística"
+            }
+          },
+          {
+            "id": "151afc9761ec5682",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d7f67e5d1d6a1f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML/Regresión logística.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Regresión logística"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "62a08b1d5f9251c9",
+  "lastOpenFiles": [
+    "DLA/1. DNN y auto-encoders/Notas.md",
+    "DLA/1. DNN y auto-encoders/Grabaciones.md",
+    "Imágenes/Captura de pantalla 2025-02-24 a la(s) 7.15.49 p.m..png",
+    "Imágenes/Captura de pantalla 2025-02-24 a la(s) 7.18.48 p.m..png",
+    "().md",
+    "ML/9. Micro red electrica/Grabaciones MRE.md",
+    "Imágenes/Captura de pantalla 2025-02-24 a la(s) 7.07.10 p.m..png",
+    "ML/8. Método monte carlo/Grabaciones SMC.md",
+    "ML/7. Encajes/Grabaciones Encajes.md",
+    "ML/Machine Learning.md",
+    "Imágenes/Captura de pantalla 2025-02-24 a la(s) 6.53.01 p.m..png",
+    "Untitled.canvas",
+    "DLA/1. DNN y auto-encoders",
+    "DLA",
+    "ML/7. Encajes/Notas SMC.md",
+    "Imágenes/Captura de pantalla 2025-01-30 a la(s) 5.39.42 p.m..png",
+    "Imágenes/Captura de pantalla 2025-01-30 a la(s) 5.03.02 p.m..png",
+    "Imágenes/Captura de pantalla 2025-01-30 a la(s) 4.29.49 p.m..png",
+    "Imágenes/Captura de pantalla 2025-01-25 a la(s) 5.17.11 p.m..png",
+    "ML/5. Series de tiempo/Notas ST.md",
+    "ML/5. Series de tiempo/Grabaciones ST.md",
+    "ML/5. Series de tiempo",
+    "ML/4. Regresión lineal/Grabaciones RL.md",
+    "ML/4. Regresión lineal/Notas RL.md",
+    "ML/4. Regresión lineal",
+    "ML/2. Regresión logística/Regresión logística.md",
+    "ML/2. Regresión logística",
+    "ML/1. Perceptrón/El Perceptrón.md",
+    "ML/1. Perceptrón",
+    "ML/5.Series de tiempo/Notas ST.md",
+    "ML/6. Topic Modeling/Grabaciones TM.md",
+    "ML/9. Micro red electrica",
+    "Untitled 1.canvas",
+    "ML/4.Regresión lineal/Grabaciones RL.md",
+    "Imágenes/Captura de pantalla 2025-01-25 a la(s) 3.50.45 p.m..png",
+    "ML/5.Series de tiempo/Grabaciones ST.md",
+    "ML/8. Método monte carlo",
+    "ML/4.Regresión lineal/Notas RL.md",
+    "Imágenes/Captura de pantalla 2025-01-14 a la(s) 6.46.50 p.m..png",
+    "ML/7. Encajes",
+    "ML/2.Regresión logística/Regresión logística.md",
+    "Ejercicios para mí.md",
+    "ML/1.Perceptrón/El Perceptrón.md",
+    "ML/2.Regresión logística",
+    "Clase 1 Notas.md",
+    "ML/Untitled 1.md",
+    "ML/2024-11-05.md"
+  ]
+}
